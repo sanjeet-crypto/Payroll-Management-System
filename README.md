@@ -21,14 +21,6 @@ Payroll Management System is Starware.
 This means you're free to use the project, as long as you star its GitHub repository.  
 Your appreciation makes us grow and glow up. ⭐
 
-# Prerequisites 👨‍💻
-
-
-## Summary
-Through this project  we can analyze the quality of water and train a machine learning model to classify safe and unsafe water for drinking. Access to safe drinking water is one of the essential needs of all human beings. From a legal point of view, access to drinking water is one of the fundamental human rights. Many factors affect water quality, it is also one of the major research areas in machine learning.
-
-<img width="1225" alt="Screenshot 2021-09-11 at 11 54 48 PM" src="https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2021/08/water-quality-analysis.png?resize=1024%2C167&ssl=1">
-
 
 # Project uses following c/c++ concept 
 - [ ] Pointers
@@ -43,19 +35,19 @@ Through this project  we can analyze the quality of water and train a machine le
 - [ ] Composition
 
 # The Project classes
-1. LINES
+- [ ] 1. LINES
  * LINE_HOR
  * LINE_VER
  * BOX
  * CLEARUP
  * CLEARDOWN
 
-1. MENUS
+- [ ] 1. MENUS
  * MAIN_MENU
  * EDIT_MENU
  * INTRODUCTION
 
-1. EMPLOYEE
+- [ ] 1. EMPLOYEE
  * NEW_EMPLOYEE
  * MODIFICATION
  * DELETION
@@ -72,30 +64,37 @@ Through this project  we can analyze the quality of water and train a machine le
  * DISPLAY_RECORD
  * VALID_DATE
 
-# Project Operations
-Addition of New Employee:  
+# Project Operations 👨‍💻
+
+### Addition of New Employee:  
 
 This feature is under the public functions of class employee. The information handled in this feature are employee code number, name, address, phone number, joining date (day, month and year), designation, grade and loan.
 
-Modify Employee Record: 
-
+### Modify Employee Record: 
+ 
   This System in C++ asks for employee code from the user for this function to work. Modifications that can be made are the employee code number itself, joining date (day, month and year), name, address, phone number, designation, grade, house allowance and loan given to the employee. Employee’s grades are categorized as A, B, C, D and E.
 
-Delete Employee Record: 
+### Delete Employee Record: 
 
   Deletion is done of an employee record from Payroll management system project by entering the employee code. A confirmation message is asked stating whether the user really wants to delete the record from the file.
 
-Print Employee Salary Slip:
+### Print Employee Salary Slip:
   
   This feature too asks for the employee code; the employee code has been used to unlock or perform operations in many features of this payroll management system project in C++. This function lists all the months of the year, and asks for date, employee name, designation and grade from the user. To print the salary slip, the user further needs to provide information such as number of days worked in the month by the employee and the number of hours worked over time. The slip enlists basic salary, allowance, deductions and net salary of the employee.
 
-Display Employee Record:
+### Display Employee Record:
 
  Providing the employee code number, users can access all the provided information related to a particular employee via this function. The employee record information displayed are the ones provided while adding a new employee record.
 
-Display List of Employees:
+### Display List of Employees:
 
   This feature displays the record of all employees added in file. The records are displayed in a tabular pattern containing information such as code name of the employee, phone number, date of joining, designation, grade and salary.
+  
+  
+## Summary
+Through this project  we can analyze the quality of water and train a machine learning model to classify safe and unsafe water for drinking. Access to safe drinking water is one of the essential needs of all human beings. From a legal point of view, access to drinking water is one of the fundamental human rights. Many factors affect water quality, it is also one of the major research areas in machine learning.
+
+<img width="1225" alt="Screenshot 2021-09-11 at 11 54 48 PM" src="https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2021/08/water-quality-analysis.png?resize=1024%2C167&ssl=1">
 
 # Ways to contribute:
 1. Solve the issues which are listed
