@@ -1,6 +1,6 @@
 
 
-<p align='center'><img src='https://images.unsplash.com/photo-1606214554814-e8a9f97bdbb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2F0ZXIlMjBkcm9wfGVufDB8fDB8fA%3D%3D&w=1000&q=80' width="200" ></p>
+<p align='center'><img src='https://eduxpert.in/wp-content/uploads/2018/10/payroll-management-system-500x500.jpg' width="200" ></p>
 
 <h1 align='center'> Payroll Management System</h1>
 <p align='center'>
@@ -10,7 +10,7 @@
 <p align='center'>
 A payroll management system is the process by which employers pay wages to their employees. It’s also how they demonstrate their commitment to their workers, fulfill their obligations to government agencies and keep financial records in order.Payroll management is an important part of any business because it helps improve employee engagement and regulatory compliance. Without an efficient, accurate means of paying employees, depositing and filing taxes, and maintaining records, employers could face wage claims and expensive penalties.
 </p>
-<img width="3774" alt="Donna UI built in Ability Hacks" src="https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2021/08/ph.png?resize=1024%2C483&ssl=1">
+<img width="3000" alt="Donna UI built in Ability Hacks" src="https://i0.wp.com/juntrax.com/blog/wp-content/uploads/2020/11/Cloud-based-Payroll-Management-System-Juntrax-.png?fit=1200%2C720&ssl=1">
 
 ## About the Project ⛹️‍♂️
 To analyse the water quality, I have used a Kaggle dataset that contains data on all of the major factors that affect the potability of water. All of the factors that affect water quality are very important, so I have briefly explored each feature of this dataset before training the machine learning model to predict whether a water sample is safe or unsuitable for consumption. 
