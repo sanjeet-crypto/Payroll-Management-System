@@ -103,4 +103,4 @@ Please refer to the project's style and contribution guidelines for submitting p
  4. *Push* your work back up to your fork
  5. Submit a *Pull request* so that we can review your changes
 
-### Please abide by  [Contributing Guidelines](https://github.com/sanjeet-crypto/Water-Potability-Analysis/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/sanjeet-crypto/Payroll-Management-System/blob/main/CODE_OF_CONDUCT.md) 🚀
+### Please abide by  [Contributing Guidelines](https://github.com/sanjeet-crypto/Payroll-Management-System/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/sanjeet-crypto/Payroll-Management-System/blob/main/CODE_OF_CONDUCT.md) 🚀
